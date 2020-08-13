@@ -1,2 +1,2 @@
 # Fluid-Gallery
-Code to make a beutiful fluid gallery
+Code to make a beautiful fluid gallery
